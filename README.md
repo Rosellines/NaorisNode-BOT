@@ -4,7 +4,7 @@ Naoris Node Protocol BOT
 - Register Here : [Naoris Protocol Testnet](https://naorisprotocol.network/testnet)
 - Dwonload Wallet: [Naoris Protocol Wallet](https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo)
 - Dwonload Extension: [Naoris Protocol Browser Security Node](https://chromewebstore.google.com/detail/naoris-protocol-browser-s/cpikalnagknmlfhnilhfelifgbollmmp)
-- Use Code: TRASzfGgEMFGHj9K
+- Use Code: iMtGHoxYarLIr7vl
 
 ## Features
 
@@ -32,7 +32,9 @@ Naoris Node Protocol BOT
 
 2. **Install Requirements:**
    ```bash
-   pip install -r requirements.txt #or pip3 install -r requirements.txt
+   python3 -m install venv bot
+   source bot/bin/activate
+   pip3 install -r requirements.txt
    ```
 
 ## Configuration
